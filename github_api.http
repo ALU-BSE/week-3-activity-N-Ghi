@@ -1,0 +1,12 @@
+GET https://api.github.com/users/N-Ghi
+
+###
+
+GET https://api.github.com/users/N-Ghi/repos
+
+###
+GET https://api.github.com/repos/N-Ghi/localMart
+Accept: application/vnd.github.v3+json
+
+###
+GET https://api.github.com/users/N-Ghi/followers
